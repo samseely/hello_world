@@ -1,1 +1,1 @@
-print "hello world/nthis is sam"
+print "hello world\nthis is sam"
